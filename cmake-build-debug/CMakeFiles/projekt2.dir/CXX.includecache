@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/y/Programms/Wspolbiezne/projekt2/main.cpp
+iostream
+-
+omp.h
+-
+chrono
+-
+random
+-
+time.h
+-
+math.h
+-
+

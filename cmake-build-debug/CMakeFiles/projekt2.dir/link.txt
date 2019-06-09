@@ -1,0 +1,1 @@
+X:/Toolchains/C++/Cygwin/bin/c++.exe  -std=c++14 -fopenmp -g  -Wl,--enable-auto-import CMakeFiles/projekt2.dir/main.cpp.o  -o projekt2.exe -Wl,--out-implib,libprojekt2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
